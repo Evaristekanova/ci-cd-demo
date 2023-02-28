@@ -1,5 +1,4 @@
 export default {
-  // test
   '/': {
     get: {
       tags: ['home'],
